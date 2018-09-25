@@ -1,6 +1,6 @@
 # Howdy folks!
 
-<img src='/img/g-avatar.jpg' height='42' width='42'></img>
+<img src='/img/g-avatar.jpg' id='profile-pic'>
 ## You've reached Dylan Cascio's Github Pages page!
 
 You might remember me from such self-help videos as Smoke Yourself Thin and Get Confident, Stupid!  Well, now I'm here to tell you about the only real path to mental health. That's right. It's the... something or other.
