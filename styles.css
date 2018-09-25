@@ -1,3 +1,7 @@
+* {
+	padding: 5px;
+}
+
 #profile-pic {
 	border-radius: 50%;
 	width: 15em;
@@ -5,6 +9,11 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+body {
+	background-color: teal;
+	color: white;
 }
 
 #header {
@@ -32,6 +41,6 @@ h2 {
 }
 p {
 	text-align: left;
-	font-family: 'Tulpen One', cursive;
+	font-family: 'Encode Sans Condensed', sans-serif;
 	font-size: 25px;
 }
