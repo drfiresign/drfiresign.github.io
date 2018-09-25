@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Lato|Raleway');
+
 * {
 	padding: 5px;
 }
@@ -13,7 +15,7 @@
 
 body {
 	background-color: teal;
-	color: white;
+	color: azure;
 }
 
 #header {
@@ -24,23 +26,22 @@ body {
 }
 
 h1 {
+	margin: 10px;
 	text-align: center;
 	font-family: 'Bungee Shade', cursive;
 	font-size: 75px;
 }
 
-#main {
-	margin-left: auto;
-	margin-right: auto;
-	width: 75em;
-}
-
 h2 {
-	font-family: 'Nova Round', cursive;
+	margin: auto;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
 	font-size: 35px;
 }
 p {
+	width: 45em;
+	margin: auto;
 	text-align: left;
-	font-family: 'Encode Sans Condensed', sans-serif;
-	font-size: 25px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
 }
