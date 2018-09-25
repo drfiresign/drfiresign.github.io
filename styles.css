@@ -1,8 +1,12 @@
 #profile-pic {
 	border-radius: 50%;
-	width: 50%;
+	width: 15%;
 	height: auto;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+p {
+	text-align: center;
 }
